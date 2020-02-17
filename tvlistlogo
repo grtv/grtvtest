@@ -5,7 +5,7 @@ https://antennalivesp-lh.akamaihd.net/i/live_1@715138/master.m3u8
 https://alphalive-i.akamaihd.net/hls/live/682300/live/master.m3u8
 #EXTINF:-1 tvg-id="ERT 1 GR" tvg-name="ERT 1 GR" tvg-logo="https://www.slas.gr/images/site/ert.jpg", ERT1
 https://youtu.be/ImCrZ9wqiVg
-#EXTINF:-1 tvg-id="ERT 2 GR" tvg-name="ERT 2 GR" tvg-logo="http://agribusinessforum.org/wp-content/uploads/2018/10/logo-ERT3-NEW-2015.jpg", ERT2
+#EXTINF:-1 tvg-id="ERT 2 GR" tvg-name="ERT 2 GR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/EPT2_logo_%282015%29.svg/1200px-EPT2_logo_%282015%29.svg.png", ERT2
 https://youtu.be/3NVSO_utp0U
 #EXTINF:-1 tvg-id="ERT 3 GR" tvg-name="ERT 3 GR" tvg-logo="http://agribusinessforum.org/wp-content/uploads/2018/10/logo-ERT3-NEW-2015.jpg", ERT3
 https://youtu.be/TNVdb0tT0PM
