@@ -4,9 +4,11 @@ https://antennalivesp-lh.akamaihd.net/i/live_1@715138/master.m3u8
 #EXTINF:-1 tvg-id="ALPHA GR" tvg-name="ALPHA GR" tvg-logo="https://kodi-addons.club/data/9e/9e417839f05077f27ce7e561c1530d44.png", ALPHA
 https://alphalive-i.akamaihd.net/hls/live/682300/live/master.m3u8
 #EXTINF:-1 tvg-id="ERT 1 GR" tvg-name="ERT 1 GR" tvg-logo="https://www.slas.gr/images/site/ert.jpg", ERT1
+https://ert-live.siliconweb.com/media/ert_1/ert_1medium.m3u8
+#EXTINF:-1 tvg-id="ERT 1 GR_YOU" tvg-name="ERT 1 GR_YOU" tvg-logo="https://www.slas.gr/images/site/ert.jpg", ERT1_YOU
 https://youtu.be/WTggCb0VBhM
 #EXTINF:-1 tvg-id="ERT 2 GR" tvg-name="ERT 2 GR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/EPT2_logo_%282015%29.svg/1200px-EPT2_logo_%282015%29.svg.png", ERT2
-https://youtu.be/3NVSO_utp0U
+https://ert-live.siliconweb.com/media/ert_2/ert_2medium.m3u8
 #EXTINF:-1 tvg-id="ERT 3 GR" tvg-name="ERT 3 GR" tvg-logo="http://agribusinessforum.org/wp-content/uploads/2018/10/logo-ERT3-NEW-2015.jpg", ERT3
 https://youtu.be/TNVdb0tT0PM
 #EXTINF:-1 tvg-id="ERT Sports" tvg-name="ERT Sports" tvg-logo="https://www.oficrete.gr/media/k2/items/cache/abc177ee6c58a3f1cb63885a9808dc51_L.jpg", ERT SPORTS
