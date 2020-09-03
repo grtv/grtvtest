@@ -6,19 +6,19 @@ https://alphalive-i.akamaihd.net/hls/live/682300/live/master.m3u8
 #EXTINF:-1 tvg-id="ERT 1 GR" tvg-name="ERT 1 GR" tvg-logo="https://www.slas.gr/images/site/ert.jpg", ERT1
 https://ert-live.siliconweb.com/media/ert_1_ww/ert_1_wwmedium.m3u8
 #EXTINF:-1 tvg-id="ERT 2 GR" tvg-name="ERT 2 GR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/EPT2_logo_%282015%29.svg/1200px-EPT2_logo_%282015%29.svg.png", ERT2
-https://youtu.be/6JTD4Sl-t6Q
+https://ert-live-bcbs15228.siliconweb.com/media/ert_2_ww/ert_2_wwmedium.m3u8
 #EXTINF:-1 tvg-id="ERT 3 GR" tvg-name="ERT 3 GR" tvg-logo="http://agribusinessforum.org/wp-content/uploads/2018/10/logo-ERT3-NEW-2015.jpg", ERT3
 https://youtu.be/TNVdb0tT0PM
 #EXTINF:-1 tvg-id="ERT Sports" tvg-name="ERT Sports" tvg-logo="https://www.oficrete.gr/media/k2/items/cache/abc177ee6c58a3f1cb63885a9808dc51_L.jpg", ERT SPORTS
-https://youtu.be/bWNVlOORSBQ
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_ww/ert_sports_wwhigh.m3u8
 #EXTINF:-1 tvg-id="MEGA" tvg-name="MEGA" tvg-logo="http://www.mediarisk.gr/wp-content/uploads/2016/05/Mega-new.png", MEGA
-https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
+https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/chunklist_b2628000.m3u8
 #EXTINF:-1 tvg-id="HPEIROS TV" tvg-name="HPEIROS TV" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/gr-epirus-tv-1-1151.jpg", HPEIROS TV
 https://server.tvdj.info:8222/radioepirus/radioepirus/playlist.m3u8
 #EXTINF:-1 tvg-id="SKAI" tvg-name="SKAI" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/c0/7c/b1/c07cb169-d870-8f65-cf36-5819bcefce04/source/256x256bb.jpg", SKAI
-https://youtu.be/CmqbY_Gzsdo
+https://skai-live.siliconweb.com/media/cambria2/index_bitrate2750K.m3u8
 #EXTINF:-1 tvg-id="OPEN TV" tvg-name="OPEN TV" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/f4/6d/d7/f46dd74a-f4f6-d9e7-04f4-a5e98a1e8b27/source/256x256bb.jpg", OPEN TV
-https://liveopen.siliconweb.com/openTvLive/stream2a/chunklist.m3u8
+https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/kcmblc8k/2728/chunklist.m3u8
 #EXTINF:-1 tvg-id="Vouli GR" tvg-name="Vouli GR" tvg-language="Greek" tvg-logo="https://i.imgur.com/7A86yAv.png" group-title="", Vouli
 http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/42238.m3u8
 #EXTINF:-1 tvg-id="ALPHA 2" tvg-name="ALPHA 2" tvg-logo="https://kodi-addons.club/data/9e/9e417839f05077f27ce7e561c1530d44.png", ALPHA 2
