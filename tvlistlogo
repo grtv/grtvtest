@@ -13,7 +13,7 @@ https://youtu.be/TNVdb0tT0PM
 https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_ww/ert_sports_wwhigh.m3u8
 #EXTINF:-1 tvg-id="MEGA" tvg-name="MEGA" tvg-logo="http://www.mediarisk.gr/wp-content/uploads/2016/05/Mega-new.png", MEGA
 https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/chunklist_b2628000.m3u8
-#EXTINF:-1 tvg-id="HPEIROS TV" tvg-name="HPEIROS TV" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/gr-epirus-tv-1-1151.jpg", HPEIROS TV
+#EXTINF:-1 tvg-id="HPEIROS TV" tvg-name="HPEIROS TV" tvg-logo="https://www.epirustv1.eu/img/logo.png", HPEIROS TV
 https://server.tvdj.info:8222/radioepirus/radioepirus/playlist.m3u8
 #EXTINF:-1 tvg-id="SKAI" tvg-name="SKAI" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/c0/7c/b1/c07cb169-d870-8f65-cf36-5819bcefce04/source/256x256bb.jpg", SKAI
 https://skai-live-back.siliconweb.com/media/cambria4/index_bitrate2750K.m3u8
@@ -21,11 +21,13 @@ https://skai-live-back.siliconweb.com/media/cambria4/index_bitrate2750K.m3u8
 https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/kcmblc8k/2728/chunklist.m3u8
 #EXTINF:-1 tvg-id="Vouli GR" tvg-name="Vouli GR" tvg-language="Greek" tvg-logo="https://i.imgur.com/7A86yAv.png" group-title="", Vouli
 http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/42238.m3u8
-#EXTINF:-1 tvg-id="ALPHA 2" tvg-name="ALPHA 2" tvg-logo="https://kodi-addons.club/data/9e/9e417839f05077f27ce7e561c1530d44.png", ALPHA 2
+#EXTINF:-1 tvg-id="ALPHA 2" tvg-name="ALPHA 2" tvg-logo="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco/btjf6dxh9sovcsubdydl", ALPHA 2
 http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/14485.m3u8
 #EXTINF:-1 tvg-id="ANT1 2" tvg-name="ANT1 2" tvg-logo="https://www.worldtvpc.com/onlinevideosites/img/ant1.jpg", ANT1 2
 https://antennalivesp-lh.akamaihd.net/i/live_1@715138/index_1500_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="HPEIROS TV 2" tvg-name="HPEIROS TV 2" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/gr-epirus-tv-1-1151.jpg", HPEIROS TV 2
 http://176.9.123.140:1935/radioepirus/radioepirus/playlist.m3u8
+#EXTINF:-1 tvg-id="HPEIROS TV 3" tvg-name="HPEIROS TV 3" tvg-logo="https://www.epirustv1.eu/img/logo.png", HPEIROS TV 3
+https://e-e.cyou:8222/radioepirus/radioepirus/chunklist_w1924242805.m3u8
 #EXTINF:-1 tvg-id="SKAI 2" tvg-name="SKAI 2" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/c0/7c/b1/c07cb169-d870-8f65-cf36-5819bcefce04/source/256x256bb.jpg", SKAI 2
 https://livestreaming.skai.gr/hls/live/1009402/15a83ddd/15a83ddd_1_2728/chunklist.m3u8
