@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ANT1 GR" tvg-name="ANT1 GR" tvg-logo="https://www.worldtvpc.com/onlinevideosites/img/ant1.jpg", ANT1
 https://antennalivesp-lh.akamaihd.net/i/live_1@715138/master.m3u8
-#EXTINF:-1 tvg-id="ALPHA GR" tvg-name="ALPHA GR" tvg-logo="https://kodi-addons.club/data/9e/9e417839f05077f27ce7e561c1530d44.png", ALPHA
+#EXTINF:-1 tvg-id="ALPHA GR" tvg-name="ALPHA GR" tvg-logo="https://en.m.wikipedia.org/wiki/Alpha_TV#/media/File%3AAlpha_TV_logo.svg", ALPHA
 https://alphalive-i.akamaihd.net/hls/live/682300/live/master.m3u8
 #EXTINF:-1 tvg-id="ERT 1 GR" tvg-name="ERT 1 GR" tvg-logo="https://www.slas.gr/images/site/ert.jpg", ERT1
 https://ert-live-bcbs15228.siliconweb.com/media/ert_1_ww/ert_1_wwmedium.m3u8
