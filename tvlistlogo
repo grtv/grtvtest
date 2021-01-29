@@ -31,8 +31,6 @@ https://server.tvdj.info:8222/radioepirus/radioepirus/playlist.m3u8
 https://livestreaming.skai.gr/hls/live/1009402/15a83ddd/15a83ddd_1_2728/chunklist.m3u8
 #EXTINF:-1 tvg-id="ARD" tvg-name="ARD" tvg-logo="https://static-s.aa-cdn.net/img/ios/981496660/4bc18cb78f767057fa1c83570f246d81", ARD
 https://mcdn.daserste.de/daserste/de/master_1184.m3u8
-#EXTINF:-1 tvg-id="ZDF" tvg-name="ZDF" tvg-logo="https://i2.wp.com/androidmag.de/wp-content/uploads/hi-256-0-5537987ec74c088ea47caf07e06df9ceeb830811.png?fit=256%2C256&ssl=1", ZDF
-http://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
 #EXTINF:-1 tvg-id="HR" tvg-name="HR" tvg-logo="https://pbs.twimg.com/profile_images/484675568357502977/f2zp-R2w_400x400.jpeg", HR
 https://hrlive1-lh.akamaihd.net/i/hr_fernsehen@75910/master.m3u8?set-segment-duration=responsive
 
