@@ -31,6 +31,8 @@ https://antennaamd.akamaized.net/ant1_akamai/abr/playlist.m3u8?&hdnts=exp=163206
 http://176.9.123.140:1935/radioepirus/radioepirus/playlist.m3u8
 #EXTINF:-1 tvg-id="HPEIROS TV 3" tvg-name="HPEIROS TV 3" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/gr-epirus-tv-1-5627.jpg", HPEIROS TV 3
 https://server.tvdj.info:8222/radioepirus/radioepirus/playlist.m3u8
+#EXTINF:-1 tvg-id="ANT1 2" tvg-name="ANT1 3" tvg-logo="https://www.worldtvpc.com/onlinevideosites/img/ant1.jpg", ANT1 3
+https://antennaamd.akamaized.net/ant1_akamai/abr/playlist.m3u8?&hdnts=exp=1632065933~hmac=509560f087fe0999a40fa3fdb09dfdfe6c7031dcc50e0ab20250686ef7f1bf4b
 #EXTINF:-1 tvg-id="SKAI 2" tvg-name="SKAI 2" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/c0/7c/b1/c07cb169-d870-8f65-cf36-5819bcefce04/source/256x256bb.jpg", SKAI 2
 https://livestreaming.skai.gr/hls/live/1009402/15a83ddd/15a83ddd_1_2728/chunklist.m3u8
 
