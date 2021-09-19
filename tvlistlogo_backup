@@ -1,1 +1,37 @@
-
+#EXTM3U
+#EXTINF:-1 tvg-id="ANT1 GR" tvg-name="ANT1 GR" tvg-logo="https://www.worldtvpc.com/onlinevideosites/img/ant1.jpg", ANT1
+https://antennalivesp-lh.akamaihd.net/i/live_1@715138/master.m3u8
+#EXTINF:-1 tvg-id="ALPHA GR" tvg-name="ALPHA GR" tvg-logo="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco/btjf6dxh9sovcsubdydl", ALPHA
+https://alphalive-i.akamaihd.net/hls/live/682300/live/master.m3u8
+#EXTINF:-1 tvg-id="ERT 1 GR" tvg-name="ERT 1 GR" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/gr-ert-1-1846.jpg", ERT1
+https://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1_1Mbps.m3u8
+#EXTINF:-1 tvg-id="ERT 2 GR" tvg-name="ERT 2 GR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/EPT2_logo_%282015%29.svg/1200px-EPT2_logo_%282015%29.svg.png", ERT2
+https://ert-live-bcbs15228.siliconweb.com/media/ert_2/ert_2.m3u8
+#EXTINF:-1 tvg-id="ERT 3 GR" tvg-name="ERT 3 GR" tvg-logo="http://agribusinessforum.org/wp-content/uploads/2018/10/logo-ERT3-NEW-2015.jpg", ERT3
+https://ert-live-bcbs15228.siliconweb.com/media/ert_3/ert_3_1Mbps.m3u8
+#EXTINF:-1 tvg-id="ERT Sports" tvg-name="ERT Sports" tvg-logo="https://www.oficrete.gr/media/k2/items/cache/abc177ee6c58a3f1cb63885a9808dc51_L.jpg", ERT SPORTS
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_ww/ert_sports_wwhigh.m3u8
+#EXTINF:-1 tvg-id="MEGA" tvg-name="MEGA" tvg-logo="http://www.mediarisk.gr/wp-content/uploads/2016/05/Mega-new.png", MEGA
+https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/chunklist_b2628000.m3u8
+#EXTINF:-1 tvg-id="HPEIROS TV" tvg-name="HPEIROS TV" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/gr-epirus-tv-1-5627.jpg", HPEIROS TV
+https://e-e.cyou:8222/radioepirus/radioepirus/chunklist_w1924242805.m3u8
+#EXTINF:-1 tvg-id="SKAI" tvg-name="SKAI" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/c0/7c/b1/c07cb169-d870-8f65-cf36-5819bcefce04/source/256x256bb.jpg", SKAI
+https://skai-live.siliconweb.com/media/cambria4/index_bitrate2000K.m3u8
+#EXTINF:-1 tvg-id="OPEN TV" tvg-name="OPEN TV" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/f4/6d/d7/f46dd74a-f4f6-d9e7-04f4-a5e98a1e8b27/source/256x256bb.jpg", OPEN TV
+https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/1vdj1cxb/2728/chunklist.m3u8
+#EXTINF:-1 tvg-id="MEGA" tvg-name="MEGA2" tvg-logo="http://www.mediarisk.gr/wp-content/uploads/2016/05/Mega-new.png", MEGA2
+https://streamcdnh1-c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/chunklist_b732000.m3u8
+#EXTINF:-1 tvg-id="MEGA" tvg-name="MEGA3" tvg-logo="http://www.mediarisk.gr/wp-content/uploads/2016/05/Mega-new.png", MEGA3
+https://streamcdnh6-c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/chunklist_b2628000.m3u8
+#EXTINF:-1 tvg-id="ALPHA 2" tvg-name="ALPHA 2" tvg-logo="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco/btjf6dxh9sovcsubdydl", ALPHA 2
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/14485.m3u8
+#EXTINF:-1 tvg-id="ANT1 2" tvg-name="ANT1 2" tvg-logo="https://www.worldtvpc.com/onlinevideosites/img/ant1.jpg", ANT1 2
+https://antennaamd.akamaized.net/ant1_akamai/abr/playlist.m3u8?&hdnts=exp=1632064289~hmac=5ed4a8f7c8d62c20da716305c56f7ed6dc91e2c2275e4e58405e66479100a02f
+#EXTINF:-1 tvg-id="HPEIROS TV 2" tvg-name="HPEIROS TV 2" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/gr-epirus-tv-1-5627.jpg", HPEIROS TV 2
+http://176.9.123.140:1935/radioepirus/radioepirus/playlist.m3u8
+#EXTINF:-1 tvg-id="HPEIROS TV 3" tvg-name="HPEIROS TV 3" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/gr-epirus-tv-1-5627.jpg", HPEIROS TV 3
+https://server.tvdj.info:8222/radioepirus/radioepirus/playlist.m3u8
+#EXTINF:-1 tvg-id="ANT1 3" tvg-name="ANT1 3" tvg-logo="https://www.worldtvpc.com/onlinevideosites/img/ant1.jpg", ANT1 3
+https://antennaamd.akamaized.net/ant1_akamai/abr/playlist.m3u8?&hdnts=exp=1632067077~hmac=cb81c262a831395ab6e1560f4b03e7407c9d9d008716d09bc71621f991ae4854
+#EXTINF:-1 tvg-id="SKAI 2" tvg-name="SKAI 2" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/c0/7c/b1/c07cb169-d870-8f65-cf36-5819bcefce04/source/256x256bb.jpg", SKAI 2
+https://livestreaming.skai.gr/hls/live/1009402/15a83ddd/15a83ddd_1_2728/chunklist.m3u8
